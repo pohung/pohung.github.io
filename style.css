@@ -54,19 +54,19 @@ a:hover {
 .project_media {
   width: 380pt;
   display: block;
+  padding: 2pt;
+  box-shadow: 2px 2px 5pt #CDCDCD;
 }
 
 .project_title {
   font-weight: bold;
   font-size: 16pt;
-  margin-top: 10pt;
   margin-bottom: 5pt;
 }
 
 .project_item {
   width: 360pt;
   padding: 10pt;
-  margin-top: 10pt;
   margin-bottom: 30pt;
 }
 
