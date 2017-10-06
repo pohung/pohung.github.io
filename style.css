@@ -104,6 +104,8 @@ video::-webkit-media-controls {
 .project_media {
   width: 200pt;
   display: block;
+  padding: 2pt;
+  box-shadow: 2px 2px 5pt #CDCDCD;
 }
 
 .project_item {
