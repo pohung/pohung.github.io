@@ -75,6 +75,17 @@ video::-webkit-media-controls {
   opacity: 0;
 }
 
+.footer {
+  color: #CDCDCD;
+  font-size: 9pt;
+  text-align: center;
+}
+
+.sf_icon {
+  width: 30pt;
+  height: 26pt;
+}
+
 @media screen and (max-width: 720px) {
 
 .header {
