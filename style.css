@@ -13,6 +13,13 @@ a:hover {
   color: #666666;
 }
 
+.tagline {
+  font-size: 12pt;
+  letter-spacing: 1pt;
+  font-style: italic;
+  color: #555555;
+}
+
 .social_icons {
   background-color: #EEEEEE;
   padding: 8px;
