@@ -13,6 +13,10 @@ a:hover {
   color: #666666;
 }
 
+.sf_emoji {
+  font-size: 30pt;
+}
+
 .tagline {
   font-size: 12pt;
   letter-spacing: 1pt;
@@ -82,13 +86,6 @@ a:hover {
 video::-webkit-media-controls {
   display:none !important;
   opacity: 0;
-}
-
-.footer {
-  color: #999999;
-  font-size: 9pt;
-  text-align: center;
-  padding-bottom: 40pt;
 }
 
 .sf_icon {
