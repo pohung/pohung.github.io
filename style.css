@@ -42,7 +42,7 @@ a:hover {
 }
 
 .header {
-  letter-spacing: 3pt;
+  letter-spacing: 2.5pt;
   font-size: 16pt;
   padding-top: 25pt;
   padding-bottom: 15pt;
@@ -52,11 +52,11 @@ a:hover {
 }
 
 .title {
-  letter-spacing: 8pt;
-  word-spacing: 14pt;
+  letter-spacing: 5pt;
+  word-spacing: 10pt;
   font-size: 24pt;
   padding-top: 100pt;
-  padding-bottom: 20pt;
+  padding-bottom: 50pt;
   text-transform: uppercase;
 }
 
@@ -92,8 +92,8 @@ video::-webkit-media-controls {
 }
 
 .sf_icon {
-  width: 30pt;
-  height: 26pt;
+  width: 40pt;
+  height: 40pt;
 }
 
 @media screen and (max-width: 720px) {
