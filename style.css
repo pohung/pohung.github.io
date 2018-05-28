@@ -55,8 +55,8 @@ a:hover {
   letter-spacing: 5pt;
   word-spacing: 10pt;
   font-size: 24pt;
-  padding-top: 100pt;
-  padding-bottom: 50pt;
+  padding-top: 60pt;
+  padding-bottom: 60pt;
   text-transform: uppercase;
 }
 
@@ -109,7 +109,7 @@ video::-webkit-media-controls {
   letter-spacing: 3pt;
   word-spacing: 8pt;
   font-size: 24pt;
-  padding-top: 100pt;
+  padding-top: 30pt;
   padding-bottom: 20pt;
   text-transform: uppercase;
 }
