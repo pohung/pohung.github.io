@@ -63,9 +63,10 @@ a:hover {
 }
 
 .project_media {
-  width: 380pt;
+  margin: auto;
+  width: 300pt;
   display: block;
-  padding: 2pt;
+  padding: 5pt;
   box-shadow: 2px 2px 5pt #CDCDCD;
 }
 
@@ -128,9 +129,10 @@ video::-webkit-media-controls {
 }
 
 .project_media {
-  width: 200pt;
+  margin: auto;
+  width: 180pt;
   display: block;
-  padding: 2pt;
+  padding: 3pt;
   box-shadow: 2px 2px 5pt #CDCDCD;
 }
 
