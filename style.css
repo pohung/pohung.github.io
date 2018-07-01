@@ -42,24 +42,24 @@ a:hover {
 }
 
 .header {
-  letter-spacing: 2.5pt;
-  font-size: 16pt;
+  letter-spacing: 2pt;
+  font-size: 14pt;
   padding-top: 25pt;
-  padding-bottom: 60pt;
+  padding-bottom: 40pt;
   margin-bottom: 20pt;
   text-align: center;
+  font-weight: 800;
   border-bottom: 1px solid #CCCCCC;
 }
 
 .title {
   font-family: 'Source Sans Pro Black', sans-serif;
-  letter-spacing: 5pt;
-  word-spacing: 10pt;
-  font-size: 22pt;
+  letter-spacing: 3pt;
+  word-spacing: 5pt;
+  font-size: 30pt;
   font-weight: 900;
   padding-top: 60pt;
-  padding-bottom: 60pt;
-  text-transform: uppercase;
+  padding-bottom: 40pt;
 }
 
 .project_media {
@@ -98,15 +98,15 @@ video::-webkit-media-controls {
 }
 
 .sf_icon {
-  width: 40pt;
-  height: 40pt;
+  width: 22pt;
+  height: 22pt;
 }
 
 @media screen and (max-width: 720px) {
 
 .header {
   letter-spacing: 1pt;
-  font-size: 16pt;
+  font-size: 13pt;
   padding-top: 25pt;
   padding-bottom: 15pt;
   text-align: center;
@@ -114,11 +114,10 @@ video::-webkit-media-controls {
 
 .title {
   letter-spacing: 3pt;
-  word-spacing: 8pt;
+  word-spacing: 3pt;
   font-size: 20pt;
   padding-top: 30pt;
   padding-bottom: 20pt;
-  text-transform: uppercase;
 }
 
 .contents {
