@@ -63,7 +63,7 @@ a:hover {
   background-color: #F0F0F0;
   width: 100%;
   margin: 0 0 25pt -100pt;
-  padding: 1pt 100pt;
+  padding: 0.5px 100pt;
 }
 
 .project_media {
