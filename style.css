@@ -3,6 +3,7 @@ body {
   color: #222222;
   font-family: 'Source Sans Pro', sans-serif;
   text-decoration: none;
+  font-weight: 300;
 }
 
 a:link, a:visited {
@@ -48,16 +49,16 @@ a:hover {
   padding-bottom: 40pt;
   margin-bottom: 20pt;
   text-align: center;
-  font-weight: 800;
+  font-weight: 400;
   border-bottom: 1px solid #CCCCCC;
 }
 
 .title {
-  font-family: 'Source Sans Pro Black', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   letter-spacing: 3pt;
   word-spacing: 5pt;
   font-size: 30pt;
-  font-weight: 900;
+  font-weight: 700;
   padding-top: 60pt;
   padding-bottom: 40pt;
 }
@@ -72,7 +73,7 @@ a:hover {
 
 .project_title {
   color: #222222;
-  font-weight: bold;
+  font-weight: 400;
   font-size: 16pt;
   margin-bottom: 5pt;
   padding-top: 10pt;
