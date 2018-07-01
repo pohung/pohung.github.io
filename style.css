@@ -39,11 +39,9 @@ a:hover {
   letter-spacing: 2pt;
   font-size: 14pt;
   padding-top: 25pt;
-  padding-bottom: 40pt;
-  margin-bottom: 20pt;
+  padding-bottom: 15pt;
   text-align: center;
   font-weight: 400;
-  border-bottom: 1px solid #CCCCCC;
 }
 
 .title {
@@ -54,6 +52,13 @@ a:hover {
   font-weight: 700;
   padding-top: 60pt;
   padding-bottom: 40pt;
+}
+
+.divider {
+  background-color: #F0F0F0;
+  width: 100%;
+  margin: 0 0 25pt -100pt;
+  padding: 1pt 100pt;
 }
 
 .project_media {
