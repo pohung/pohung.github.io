@@ -1,6 +1,6 @@
 body {
   background-color: #FFFFFF;
-  color: #222222;
+  color: #111111;
   font-family: 'Source Sans Pro', sans-serif;
   text-decoration: none;
   font-weight: 300;
@@ -12,13 +12,6 @@ a:link, a:visited {
 
 a:hover {
   color: #666666;
-}
-
-.tagline {
-  font-size: 12pt;
-  letter-spacing: 1pt;
-  font-style: italic;
-  color: #555555;
 }
 
 .social_icons {
@@ -81,7 +74,7 @@ a:hover {
 
 .project_item {
   text-align: center;
-  color: #666666;
+  color: #555555;
   width: 360pt;
   padding: 10pt;
   margin-bottom: 50pt;
@@ -90,13 +83,6 @@ a:hover {
 video::-webkit-media-controls {
   display:none !important;
   opacity: 0;
-}
-
-.footer {
-  color: #999999;
-  font-size: 9pt;
-  text-align: center;
-  padding-bottom: 40pt;
 }
 
 .sf_icon {
