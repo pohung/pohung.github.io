@@ -37,7 +37,7 @@ a:hover {
   font-size: 13pt;
   line-height: 180%;
   vertical-align: middle;
-  width: 380pt;
+  width: 450pt;
 }
 
 .header {
@@ -65,7 +65,7 @@ a:hover {
 
 .project_media {
   margin: auto;
-  width: 300pt;
+  width: 350pt;
   display: block;
   padding: 5pt;
   box-shadow: 2px 2px 5pt #CDCDCD;
@@ -82,7 +82,7 @@ a:hover {
 .project_item {
   text-align: center;
   color: #555555;
-  width: 360pt;
+  width: 430pt;
   padding: 10pt;
   margin-bottom: 50pt;
 }
