@@ -21,10 +21,11 @@ a:hover {
 
 .social_icons {
   background-color: #EEEEEE;
-  padding: 8px;
+  border-radius: 4pt;
+  padding: 6pt;
   margin: 4pt;
-  width: 32px;
-  height: 32px;
+  width: 25pt;
+  height: 25pt;
 }
 
 .social_icons:hover {
