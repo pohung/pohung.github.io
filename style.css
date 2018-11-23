@@ -3,8 +3,8 @@ html {
 }
 
 body {
-  background-color: #FFFFFF;
-  color: #111111;
+  background-color: #F5F5F5;
+  color: #000000;
   font-family: 'Source Sans Pro', sans-serif;
   text-decoration: none;
   font-weight: 300;
@@ -54,11 +54,15 @@ a:hover {
   font-size: 30pt;
   font-weight: 700;
   padding-top: 30pt;
-  padding-bottom: 30pt;
+  padding-bottom: 10pt;
+}
+
+.subtitle {
+  text-align: center;
 }
 
 .divider {
-  background-color: #E0E0E0;
+  background-color: #DEDEDE;
   width: 100%;
   margin: 0 0 25pt -100pt;
   padding: 0.5px 100pt;
@@ -70,7 +74,7 @@ a:hover {
   margin-right: auto;
   width: 350pt;
   padding: 5pt;
-  box-shadow: 2px 2px 5pt #DDDDDD;
+  box-shadow: 2px 2px 5pt #E8E8E8;
 }
 
 .project_title {
@@ -109,7 +113,7 @@ video::-webkit-media-controls {
   width: 180pt;
   display: block;
   padding: 3pt;
-  box-shadow: 2px 2px 5pt #CDCDCD;
+  box-shadow: 2px 2px 5pt #E8E8E8;
 }
 
 .project_item {
