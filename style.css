@@ -3,12 +3,12 @@ html {
 }
 
 body {
-  background-color: #F5F5F5;
-  color: #000000;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Comfortaa', sans-serif;
   text-decoration: none;
   font-weight: 300;
   overflow-x: hidden;
+  margin: 0;
+  padding: 0;
 }
 
 a:link, a:visited {
@@ -20,79 +20,73 @@ a:hover {
 }
 
 .social_icons {
-  background-color: #E2E2E2;
-  border-radius: 4pt;
-  padding: 6pt;
-  margin: 4pt;
-  width: 25pt;
-  height: 25pt;
-}
-
-.social_icons:hover {
-  background-color: #CDCDCD;
+  padding: 5pt;
+  width: 30pt;
+  height: 30pt;
 }
 
 .contents {
   margin-right: auto;
   margin-left: auto;
-  font-size: 13pt;
+  font-size: 12pt;
   line-height: 180%;
   vertical-align: middle;
-  width: 500pt;
+  width: 100%;
 }
 
 .header {
-  font-size: 13pt;
   padding-top: 25pt;
-  padding-bottom: 15pt;
   text-align: center;
-  font-weight: 300;
+}
+
+.social_row {
+  text-align: center;
+  padding-top: 25pt;
+  padding-bottom: 25pt;
 }
 
 .title {
-  font-family: 'Source Sans Pro', sans-serif;
   font-size: 30pt;
-  font-weight: 700;
-  padding-top: 30pt;
-  padding-bottom: 10pt;
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: bold;
+  padding-top: 35pt;
+  padding-bottom: 35pt;
 }
 
 .subtitle {
+  font-size: 10pt;
   text-align: center;
-}
-
-.divider {
-  background-color: #DEDEDE;
-  width: 100%;
-  margin: 0 0 25pt -100pt;
-  padding: 0.5px 100pt;
+  text-transform: uppercase;
 }
 
 .project_media {
+  border-radius: 3pt;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 430pt;
-  padding: 5pt;
-  box-shadow: 2px 2px 5pt #E8E8E8;
+  width: 100%;
+  max-width: 500pt;
+  max-height: 300pt;
+  object-fit: cover;
 }
 
 .project_title {
   color: #222222;
-  font-weight: 400;
-  font-size: 16pt;
+  font-weight: bold;
+  font-size: 14pt;
   margin-bottom: 5pt;
-  padding-top: 10pt;
+  padding-top: 20pt;
 }
 
 .project_item {
+  font-size: 11pt;
   text-align: center;
   color: #555555;
-  width: 440pt;
+  max-width: 500pt;
   padding: 10pt;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 50pt;
+  margin-bottom: 20pt;
 }
 
 video::-webkit-media-controls {
@@ -102,25 +96,12 @@ video::-webkit-media-controls {
 
 @media screen and (max-width: 720px) {
 
-.contents {
-  margin-right: auto;
-  margin-left: auto;
-  max-width: 200pt;
+.subtitle {
+  font-size: 8pt;
 }
 
 .project_media {
-  margin: auto;
-  width: 180pt;
-  display: block;
-  padding: 3pt;
-  box-shadow: 2px 2px 5pt #E8E8E8;
-}
-
-.project_item {
-  width: 190pt;
-  padding: 5pt;
-  margin-top: 10pt;
-  margin-bottom: 30pt;
+  border-radius: 0;
 }
 
 }
