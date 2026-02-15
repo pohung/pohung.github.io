@@ -47,6 +47,8 @@ a:hover {
 
 .header {
   padding-top: 25pt;
+  padding-left: 5pt;
+  padding-right: 5pt;
   text-align: center;
 }
 
