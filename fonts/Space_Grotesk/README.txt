@@ -1,22 +1,22 @@
-Comfortaa Variable Font
-=======================
+Space Grotesk Variable Font
+===========================
 
-This download contains Comfortaa as both a variable font and static fonts.
+This download contains Space Grotesk as both a variable font and static fonts.
 
-Comfortaa is a variable font with this axis:
+Space Grotesk is a variable font with this axis:
   wght
 
 This means all the styles are contained in a single file:
-  Comfortaa-VariableFont_wght.ttf
+  SpaceGrotesk-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Comfortaa:
-  static/Comfortaa-Light.ttf
-  static/Comfortaa-Regular.ttf
-  static/Comfortaa-Medium.ttf
-  static/Comfortaa-SemiBold.ttf
-  static/Comfortaa-Bold.ttf
+in those cases you can use the static font files for Space Grotesk:
+  static/SpaceGrotesk-Light.ttf
+  static/SpaceGrotesk-Regular.ttf
+  static/SpaceGrotesk-Medium.ttf
+  static/SpaceGrotesk-SemiBold.ttf
+  static/SpaceGrotesk-Bold.ttf
 
 Get started
 -----------
@@ -60,6 +60,8 @@ License
 Please read the full license text (OFL.txt) to understand the permissions,
 restrictions and requirements for usage, redistribution, and modification.
 
-Commercial usage is allowed for any purpose, in any medium, but some
-requirements apply in some situations. Always read your font licenses and
-understand what they mean.
+You can use them in your products & projects – print or digital,
+commercial or otherwise.
+
+This isn't legal advice, please consider consulting a lawyer and see the full
+license for all details.

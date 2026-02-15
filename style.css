@@ -5,8 +5,8 @@ src: url("fonts/FransSans/FranSans-Solid.otf");
 }
 
 @font-face {
-font-family: "NotoSans";
-src: url("fonts/NotoSans/NotoSans-Regular.ttf");
+font-family: "Space_Grotesk";
+src: url("fonts/Space_Grotesk/static/SpaceGrotesk-Regular.ttf");
 }
 
 html {
@@ -14,7 +14,8 @@ html {
 }
 
 body {
-  font-family: 'NotoSans', sans-serif;
+  background-color: #FFF9F0;
+  font-family: 'Space_Grotesk', sans-serif;
   text-decoration: none;
   font-weight: 300;
   overflow-x: hidden;
