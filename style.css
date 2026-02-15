@@ -1,16 +1,12 @@
+
 @font-face {
-font-family: "Comfortaa";
-src: url("fonts/Comfortaa/static/Comfortaa-Regular.ttf");
+font-family: "FransSans";
+src: url("fonts/FransSans/FranSans-Solid.otf");
 }
 
 @font-face {
-font-family: "Noto Sans";
-src: url("fonts/Noto_Sans/NotoSans-Bold.ttf");
-}
-
-@font-face {
-font-family: "Limelight";
-src: url("fonts/Limelight/Limelight-Regular.ttf");
+font-family: "NotoSans";
+src: url("fonts/NotoSans/NotoSans-Regular.ttf");
 }
 
 html {
@@ -18,7 +14,7 @@ html {
 }
 
 body {
-  font-family: 'Comfortaa', sans-serif;
+  font-family: 'NotoSans', sans-serif;
   text-decoration: none;
   font-weight: 300;
   overflow-x: hidden;
@@ -61,20 +57,20 @@ a:hover {
 }
 
 h1 {
-  font-size: 35pt;
-  font-family: 'Limelight', sans-serif;
+  font-family: 'FransSans', sans-serif;
+  font-size: 40pt;
   font-weight: bold;
   padding-top: 20pt;
-  padding-bottom: 20pt;
 }
 
 h2 {
-  font-size: 12pt;
+  font-family: 'FransSans', sans-serif;
+  font-size: 18pt;
   text-align: center;
 }
 
 .project_media {
-  border-radius: 10pt;
+  border-radius: 8pt;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -85,21 +81,22 @@ h2 {
 }
 
 h3 {
+  font-family: 'FransSans', sans-serif;
   color: #222222;
   font-weight: bold;
-  font-size: 16pt;
+  font-size: 18pt;
   margin-bottom: 5pt;
 }
 
 .project_item {
-  font-size: 11pt;
+  font-size: 14pt;
   text-align: left;
   color: #555555;
   max-width: 500pt;
   padding: 10pt;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 50pt;
+  margin-bottom: 20pt;
 }
 
 video::-webkit-media-controls {
@@ -108,10 +105,6 @@ video::-webkit-media-controls {
 }
 
 @media screen and (max-width: 720px) {
-
-h2 {
-  font-size: 10pt;
-}
 
 .project_media {
   border-radius: 0;
